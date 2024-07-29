@@ -1,7 +1,6 @@
 
-  //==============================================================================================================
- 
-//====================================================================================
+   
+
 .nav-menu {
   width:auto;
   height:auto;
@@ -28,7 +27,7 @@
       opacity: 6s;
       color: red;
     }
-   //========================================
+  
    .header{
     text-align: left;
     padding: 14px;
@@ -44,11 +43,11 @@
     opacity: 6s;
     color: red;
   }
-  //============================================
+
   .card{
     width: 100%;
   }
-  //===============================================================
+
   .container {
     position: relative;
     width: 100%;
@@ -114,7 +113,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 }
-  //==================================================================
+
  .content{
  display:flex;
 gap: 20px;
@@ -169,7 +168,7 @@ box-shadow:5px 5px 5px  #b5def3;
   border: 2px solid #f0eded;
 
 }
-//==================================================================================
+
 .info1{
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
@@ -211,7 +210,7 @@ padding: 30px;
   opacity: 6s;
   background-color: #333;
 }
-//==================================================================
+
 .info-row{
   display: flex;
   justify-content: center;
@@ -236,7 +235,7 @@ box-shadow:5px 5px 5px  #b5def3;
 }
 
  
-  //================================================================
+
   .card-container {
     display: flex;
     justify-content: space-between;
@@ -284,7 +283,7 @@ box-shadow:5px 5px 5px  #b5def3;
     margin-top: 10px;
     text-align: right;
     color: #f40202;
-    // text-decoration: none;
+
   }
   
   .card-link:hover {
@@ -294,17 +293,17 @@ box-shadow:5px 5px 5px  #b5def3;
     line-height: 1.5;
   }
   .foto{
-// position: absolute;
+
 object-fit: cover;
 width: 100%;
 height: 60%;
   }
 
-//================================
+
 .foto1{
  width: 100%;
 }
-// //================================
+
 footer {
 background-color: #333;
 color: #fff;
@@ -377,7 +376,7 @@ text-align: left;
 .footer-bottom p {
 margin: 10px;
 }
-//=======================
+
 @media all and (max-width: 991px) {
   .body{
     max-width:100%;
@@ -394,7 +393,7 @@ margin: 10px;
     flex-direction: column;
     align-items: flex-start;
     font-size: 16px;
-    // margin: -99999px;
+
   }
   .nav-menu li{
     margin: -9999px;
@@ -467,7 +466,7 @@ height: auto;
   .info-row{
    
     display: grid;
-    // grid-template-columns: 1fr;
+  
 
   }
   .info-card{
@@ -488,7 +487,7 @@ text-align: center;
  .snip1226{
   display: grid;
   gap: 5px;
-  // grid-template-columns: 1fr 1fr;
+
  }
  .mainimg{
   width: 50px;
