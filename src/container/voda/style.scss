@@ -34,16 +34,14 @@ border-bottom: 1px solid black;
     font-family: italic;
     font-weight: 800;
   }
-  //==========================================================
-  
-  //==========================================================
+
   .card{
     width: 100%;
   }
   img{
     width: 100%;
   } 
-  //==================================================
+
   .container {
     position: relative;
     width: 100%;
@@ -55,12 +53,12 @@ border-bottom: 1px solid black;
 object-fit: cover;
 filter: contrast(70%);
   }
-  //======================================================
+
   .text-overlay {
     color: #fff;
     text-align: left;
     background-color: rgba(0, 0, 0, 0);
-    // border-bottom: 1px solid white;
+ 
     flex-direction: row;
     align-items: flex-end;
   
@@ -74,18 +72,18 @@ filter: contrast(70%);
     font-size: 36px; /* Change this to your desired font size */
     font-family: Arial, sans-serif; /* Change this to your desired font */
     }
-  //================================================
+
   .nav-menu{
     font-weight: 800;
      top: 30px;
-    //  color: #030303;
+
      position: absolute;
     padding-left: 30px;
    }
    h2{
     font-size:80px;
     text-decoration: none;
-  // padding-left: 600px;
+
   color: #f9eeee;
   font-weight: 800;
   font-family: italic;
@@ -96,7 +94,7 @@ filter: contrast(70%);
     color: red;
    
   }
-  //===========================================
+
   .card-content{
   
   display: flex;
@@ -142,7 +140,7 @@ filter: contrast(70%);
     line-height: 1.5;
   }
   a{
-    // text-decoration: none;
+
     color: red;
     font-size: 20px;
   }
@@ -152,7 +150,7 @@ filter: contrast(70%);
     
    background-color:white;
   }
-//============================================
+
 .card-container1 {
   display:flex;
   }
@@ -205,7 +203,7 @@ filter: contrast(70%);
   color: #9a1b0f;
 }
 
-   //==============================================
+
    .section{
     padding-top: 0;
     display: block;
@@ -230,7 +228,7 @@ filter: contrast(70%);
     height: 2px;
     background-color:red;
 }
-//==================================================
+
 .info1{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -266,7 +264,7 @@ filter: contrast(70%);
     font-weight: 600;
     transition: all .4s;
   }
-//====================================================
+
 footer {
   background-color: #333;
   color: #fff;
@@ -330,7 +328,7 @@ footer {
   }
   
   .footer-bottom {
-  // margin-top: 20px;
+
   border-top: 1px solid #f40202;
   padding: 10px;
   background-color: #333;
@@ -345,9 +343,9 @@ footer {
     width: 50px;
     height: 50px;
   }
-  //=====================================
+  
 
-//==============================
+
 /* Mobile Styles */
 @media all and (max-width: 991px) {
  
@@ -394,7 +392,7 @@ padding-right: 40px;
 
   .info1 {
     grid-template-columns: 1fr;
-    // padding-bottom: 30px;
+  
     gap: 10px;
   }
 
