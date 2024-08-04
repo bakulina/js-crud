@@ -1,4 +1,4 @@
-//====================================================================================
+
 .nav-menu {
   width:auto;
   height:auto;
@@ -27,7 +27,7 @@
     }
   
    
-   //========================================
+
    .header{
     text-align: left;
     padding: 14px;
@@ -44,14 +44,14 @@
     color: red;
   }
 
-  //============================================
+
   .card{
     width: 100%;
   }
   img{
     width: 100%;
   }
-  //===============================================================
+ 
   .container {
     position: relative;
     width: 100%;
@@ -67,7 +67,7 @@
   color: #fff;
   text-align: left;
   background-color: rgba(0, 0, 0, 0);
-  // border-bottom: 1px solid white;
+
   flex-direction: row;
   align-items: flex-end;
   
@@ -100,7 +100,7 @@ h2:hover{
   opacity: 6s;
   color: red;
 }
-//=========================================================
+
 
 .img1{
   display:grid;
@@ -119,7 +119,7 @@ height: auto;
   border: 1px solid red;
   margin: 10px;
 }
-//==================================================
+
 .info{
   display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -161,7 +161,7 @@ height: auto;
   background-color: #333;
 }
 
-//===================================================
+
 footer {
   background-color: #333;
   color: #fff;
@@ -240,7 +240,7 @@ footer {
   width: 50px;
   height: 50px;
 }
-//========================
+
 @media all and (max-width: 991px) {
   body{
     max-width: 100%;
